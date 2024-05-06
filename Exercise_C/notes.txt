@@ -1,0 +1,12 @@
+notepad:
+Workflow gestaltung:
+- 1 File der Daten extrahiert und egal ob XML oder GPX die gleichen Daten exportiert
+- csv Erstellen
+- csv einlesen und Daten extrahieren
+
+Ordnerstruktur
+- Ausgangsdaten
+- Konvertierte CSV
+- Analysen
+
+Ist es möglich funktionen in R zu importieren wenn sie in einem Script geschrieben sind? so dass nicht alles in einem Code Skript steht?
