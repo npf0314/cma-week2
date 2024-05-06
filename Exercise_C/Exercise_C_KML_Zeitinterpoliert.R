@@ -82,7 +82,7 @@ ausgangslage <- coord_df %>%
 print(ausgangslage)
 
 # Pfad für den Export der CSV-Datei
-export_path <- "C:/_Data/Master/PaT_24/week_2/cma-week2-rexercise/data/ausgangslage.csv"
+export_path <- "C:/_Data/Master/PaT_24/week_2/cma-week2-rexercise/data/KML_Zeitinerpoliert.csv"
 
 # Daten in CSV exportieren
 write.csv(ausgangslage, file = export_path, row.names = FALSE)
