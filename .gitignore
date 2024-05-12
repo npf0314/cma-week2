@@ -4,4 +4,7 @@
 .Ruserdata
 
 *.tif
+*.csv
+*.gpx
+*kml
 data/
